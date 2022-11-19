@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "IdfcBankApp",
+    "slug": "IdfcBankApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets2/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets2/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets2/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets2/favicon.png"
+    }
+  }
+}
