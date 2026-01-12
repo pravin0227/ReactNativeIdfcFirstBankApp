@@ -1,2 +1,2 @@
-# ReactNativeIdfcFirstBankApp
-IdfcFirstBank 
+# ReactNativeBankingApp
+banking application
